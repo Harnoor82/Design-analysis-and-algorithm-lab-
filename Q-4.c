@@ -7,7 +7,7 @@
 int main() {
     char str[100];
     int i, j, flag = 1;
-
+ 
     printf("Enter a string: ");
     fgets(str, sizeof(str), stdin);
 

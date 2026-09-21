@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 int main() {
-    int a[100], n;
+    int a[100], n; 
     int max, second;
 
     printf("Enter size: ");

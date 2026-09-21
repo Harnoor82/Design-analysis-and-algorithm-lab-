@@ -9,7 +9,7 @@ int main() {
     int i, j, flag = 1;
  
     printf("Enter a string: ");
-    fgets(str, sizeof(str), stdin);
+    fgets(str, sizeof(str), stdin); 
 
     i = 0;
     j = strlen(str) - 1;

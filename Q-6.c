@@ -5,7 +5,7 @@
 int main() {
     int a[] = {2, 7, 4, 5, 1, 3};
     int n = 6, target = 6;
-    int i, j;
+    int i, j; 
 
     printf("Pairs: ");
 

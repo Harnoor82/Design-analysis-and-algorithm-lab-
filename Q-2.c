@@ -6,7 +6,7 @@ int main() {
     int a[100], n, i, j, count;
 
     printf("Enter size: ");
-    scanf("%d", &n);
+    scanf("%d", &n); 
 
     printf("Enter elements: ");
     for (i = 0; i < n; i++)
